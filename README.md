@@ -1,5 +1,7 @@
 # Welcome to [Astro](https://astro.build)
 
+[![status-badge](https://ci.codeberg.org/api/badges/frontend-stack/astro/status.svg)](https://ci.codeberg.org/frontend-stack/astro)
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
 
